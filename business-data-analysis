@@ -1,0 +1,5 @@
+-Data Preparation: Load data, clean it, and handle missing values.
+-Exploratory Data Analysis (EDA): Visualize and summarize data.
+-Feature Engineering: Create new features to improve model performance.
+-Modeling: Build and evaluate machine learning models.
+-Conclusion: Summarize findings and suggest improvements.
